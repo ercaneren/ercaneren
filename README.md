@@ -1,20 +1,25 @@
-# Hi there, I'm Eren 👋 
+# Hi there 👋 
+- I'm Eren, I'm an 18-year-old graphic designer.
+
+![Profile views](https://gpvc.arturio.dev/erenty)  
 
 ### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/erencanercan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/erencanercan#gh-dark-mode-only)
+[![website](./image/instagram-light.svg)](https://instagram.com/erenty#gh-light-mode-only)
+[![website](./image/instagram-dark.svg)](https://instagram.com/erenty#gh-dark-mode-only)
+[![website](./image/spotify-light.svg)](https://open.spotify.com/user/31mfqznn6maqp7secfmlo4mlm77m#gh-light-mode-only)
+[![website](./image/spotify-dark.svg)](https://open.spotify.com/user/31mfqznn6maqp7secfmlo4mlm77m#gh-dark-mode-only)
+[![website](./image/linkedin-light.svg)](https://linkedin.com/in/erencanercan#gh-light-mode-only)
+[![website](./image/linkedin-dark.svg)](https://linkedin.com/in/erencanercan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/erenty#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/erenty#gh-dark-mode-only)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/273549200254566400?idleMessage=Probaby%20doing%20something%20else...)](https://discord.com/users/273549200254566400)
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ercaneren&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Eren's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ercaneren&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 <!--
 **ercaneren/ercaneren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
