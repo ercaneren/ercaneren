@@ -1,5 +1,6 @@
 # Hi there 👋 
-- I'm Eren, I'm an 18-year-old graphic designer.
+- I'm Eren, I'm an 18-year-old graphic designer
+ and interested in coding.
 
 ![Profile views](https://gpvc.arturio.dev/erenty)  
 
